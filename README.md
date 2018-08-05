@@ -10,7 +10,7 @@ algorithm	: Quark
 block reward : 120 xnt (staking 30%, masternode 70%)  
 5000 xnt required coins for masternode  
 blocktime : 60 sec  
-total supply : 100,000,000  
+max supply limit : ~ 100,000,000  
 genesis date	: 15th May, 2018  
   
 ***
@@ -19,7 +19,8 @@ genesis date	: 15th May, 2018
 exchanges : https://graviex.net/markets/xntbtc  
 masternode online : https://masternodes.online/currencies/XNT/  
   
-[`wallet`](https://github.com/robinadaptor/ximant-wallet)  [`bootstrap`](https://github.com/robinadaptor/ximant-bootstrap)    
+[`wallet`](https://github.com/robinadaptor/ximant-wallet)  [`bootstrap`](https://github.com/robinadaptor/ximant-bootstrap)  [`discord`](https://discord.gg/czhCnz)  
+***
 
 ***
 ## Donations 

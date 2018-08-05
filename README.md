@@ -20,8 +20,7 @@ exchanges : https://graviex.net/markets/xntbtc
 masternode online : https://masternodes.online/currencies/XNT/  
   
 [`wallet`](https://github.com/robinadaptor/ximant-wallet)  [`bootstrap`](https://github.com/robinadaptor/ximant-bootstrap)  [`discord`](https://discord.gg/czhCnz)  
-***
-
+  
 ***
 ## Donations 
   

@@ -2,7 +2,7 @@
 
 # Ximant
   
-This is provided by ximant official repository. ximant specification is based on the contents of official site.
+Ximant is a 100% pure POS system. And Ximant is operated by community.
   
 ***
 ## Specification  

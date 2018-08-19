@@ -35,12 +35,14 @@ masternodecoins :  https://masternodecoins.me/ximant
 <tr><td>Phase 2</td><td align="center">2301-6000</td><td align="right">60 XNT</td><td align="center">70%</td><td align="center">30%</td></tr>
 <tr><td>Phase 3</td><td align="center">6001-11000</td><td align="right">120 XNT</td><td align="center">70%</td><td align="center">30%</td></tr>
 <tr><td>Phase 4</td><td align="center">11001-22000</td><td align="right">240 XNT</td><td align="center">70%</td><td align="center">30%</td></tr>
-<tr><td>Phase 5</td><td align="center">22001-infinite</td align="right"><td>120 XNT</td><td align="center">70%</td><td align="center">30%</td></tr>
+<tr><td>Phase 5</td><td align="center">22001-infinite</td><td align="right">120 XNT</td><td align="center">70%</td><td align="center">30%</td></tr>
 </table>
   
 ***
 ## Inspection  
->> 2018-08-19, 134,908 blocks, total actual output 17,163,254.14 XNT = policy output 17,163,259 XNT, scamming rate 0%, error range (=) transaction fee.
+  
+### 2018-08-19
+  * 134,908 blocks, total actual output 17,163,254.14 XNT = policy output 17,163,259 XNT, scamming rate 0%, error range (=) transaction fee.
   
 ***
 ## Donations 
